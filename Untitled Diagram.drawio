@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:21:58.551Z" agent="5.0 (X11; Ubuntu)" etag="-SypUpyiQhRZaYNJzh-O" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:23:27.054Z" agent="5.0 (X11; Ubuntu)" etag="h4dzDucy5sXsfwBMJtMh" version="20.5.3" type="github">
   <diagram id="jDiCQ6K3not6Lp66DAId" name="Page-1">
     <mxGraphModel dx="1422" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="AIuGeXBI3ISIS_ihN_wv-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="AIuGeXBI3ISIS_ihN_wv-10" target="AIuGeXBI3ISIS_ihN_wv-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AIuGeXBI3ISIS_ihN_wv-9" value="Xác nhận thông tin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AIuGeXBI3ISIS_ihN_wv-8" vertex="1" connectable="0">
+        <mxCell id="AIuGeXBI3ISIS_ihN_wv-9" value="Xác thực thông tin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AIuGeXBI3ISIS_ihN_wv-8" vertex="1" connectable="0">
           <mxGeometry x="0.1667" relative="1" as="geometry">
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
@@ -41,9 +41,9 @@
         <mxCell id="AIuGeXBI3ISIS_ihN_wv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="AIuGeXBI3ISIS_ihN_wv-15" target="AIuGeXBI3ISIS_ihN_wv-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AIuGeXBI3ISIS_ihN_wv-14" value="Xác nhận số lượng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AIuGeXBI3ISIS_ihN_wv-13" vertex="1" connectable="0">
+        <mxCell id="AIuGeXBI3ISIS_ihN_wv-14" value="Xác thực số lượng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AIuGeXBI3ISIS_ihN_wv-13" vertex="1" connectable="0">
           <mxGeometry x="-0.4397" y="1" relative="1" as="geometry">
-            <mxPoint x="40" y="1" as="offset" />
+            <mxPoint x="3" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AIuGeXBI3ISIS_ihN_wv-15" value="3.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=19;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillStyle=hatch;" parent="1" vertex="1">
@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="AIuGeXBI3ISIS_ihN_wv-18" value="Kiểm tra hàng nhập" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AIuGeXBI3ISIS_ihN_wv-17" vertex="1" connectable="0">
           <mxGeometry x="-0.3062" y="1" relative="1" as="geometry">
-            <mxPoint x="-6" as="offset" />
+            <mxPoint x="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AIuGeXBI3ISIS_ihN_wv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="AIuGeXBI3ISIS_ihN_wv-20" target="AIuGeXBI3ISIS_ihN_wv-39" edge="1">
